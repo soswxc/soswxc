@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @soswxc
+- 👀 I’m interested in python programming
+- 🌱 I’m currently learning Django and machine learning
+- 💞️ I’m looking to collaborate on engineering programming with python specially mechanical engineering programs
+- 📫 How to reach me: soswxc@gmail.com
