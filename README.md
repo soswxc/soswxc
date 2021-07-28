@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @soswxc
+- 👋 Hi, I’m Amirmohammad Samizadeh I'm a mechanical engineer
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning Django and machine learning
-- 💞️ I’m looking to collaborate on engineering programming with python specially mechanical engineering programs
+- 💞️ I’m looking to collaborate on engineering programming with python specially mechanical engineering projects
 - 📫 How to reach me: soswxc@gmail.com
